@@ -1,0 +1,15 @@
+[
+    {
+      "modid": "purchaseablechunks",
+      "name": "SeriousCreeper's Purchaseable Chunks",
+      "description": "",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["SeriousCreeper"],
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

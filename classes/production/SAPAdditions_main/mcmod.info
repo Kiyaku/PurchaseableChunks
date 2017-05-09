@@ -1,0 +1,15 @@
+[
+    {
+      "modid": "sapadditions",
+      "name": "SeriousCreeper's SAPAdditions",
+      "description": "Additional changes for the Serious Adventure Pack",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["SeriousCreeper"],
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
